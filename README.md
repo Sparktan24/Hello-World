@@ -13,8 +13,8 @@
 
 
 ### Prerequisites
--Have git installed locally.
--Have a code editor installed (if you wish to modify the project).
+- Have git installed locally.
+- Have a code editor installed (if you wish to modify the project).
 
 ### Setup
 -clone the project to a local folder.
