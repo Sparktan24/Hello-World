@@ -9,11 +9,6 @@
 
 - Html, CSS
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
 ## Getting Started
 
 
@@ -27,7 +22,7 @@
 
 ## Authors
 
-👤 **Author1**
+👤 **Jesus Molina**
 
 - GitHub: [@Sparktan24](https://github.com/Sparktan24)
 - Twitter: [@Sparktan1](https://twitter.com/Sparktan1)
